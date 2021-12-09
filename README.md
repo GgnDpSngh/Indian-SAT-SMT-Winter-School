@@ -1,1 +1,1 @@
-# Indian-SAT+SMT-Winter-School
+# Indian SAT+SMT Winter School
