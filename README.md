@@ -1,6 +1,6 @@
 # Indian SAT+SMT Winter School
 
-We provide a virtual machine with ERAN installed running Ubuntu which can be downloaded here. 
+We provide a virtual machine with ERAN installed running Ubuntu which can be downloaded [here](https://uofi.box.com/s/s4mbdh49k608i7m8co9apkyi39dpae7d). 
 
 # System Requirements
 1. Make sure you have 64-bit VirtualBox from Oracle.
