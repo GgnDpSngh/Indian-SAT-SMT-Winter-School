@@ -12,5 +12,5 @@ We provide a virtual machine with ERAN installed running Ubuntu which can be dow
 2. The login credentials for the Virtual Machine are:
 ```
    username: eran
-   password: eran 2021
+   password: eran2021
    ```
