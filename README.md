@@ -10,5 +10,5 @@ We provide a virtual machine with ERAN installed running Ubuntu which can be dow
 # Instructions
 1. Import the virtual machine in VirtualBox. More information on importing virtual machine in VirtualBox can be found [here](https://docs.oracle.com/cd/E26217_01/E26796/html/qs-import-vm.html).
 2. The login credentials for the Virtual Machine are:
-username: popl22-paper329
-password: paper329
+   username: eran
+   password: eran 2021
