@@ -14,3 +14,6 @@ We provide a virtual machine with ERAN installed running Ubuntu which can be dow
    username: eran
    password: eran2021
    ```
+# Code from this repository
+1. Please copy the files "run_eran.py" and "mnist_0.1.onnx" to "/ERAN/tf_verify" directory.
+2. Run "python3 run_eran.py", this will verify the mnist network with the deeppoly domain on L_oo-norm based perturbations with $\epsilon=0.1$. 
